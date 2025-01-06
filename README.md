@@ -15,20 +15,42 @@ I am a passionate Software Engineer with expertise in creating innovative soluti
 ## 🛠️ Technical Skills
 
 ### Programming Languages
-- **Advanced:** Java, Python, JavaScript
-- **Frameworks:** Spring Boot, React.js, Node.js
-- **Web Technologies:** HTML5, CSS3, Bootstrap, Thymeleaf
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</p>
+
+### Frameworks & Web Technologies
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
+</p>
 
 ### Database Systems
-- **SQL:** MySQL, PostgreSQL
-- **NoSQL:** MongoDB
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+</p>
 
-### Development Practices & Tools
-- **Version Control:** Git, GitHub, GitLab
-- **Methodologies:** Agile (Scrum, Kanban)
-- **Architecture:** Microservices, Object-Oriented Programming
-- **Testing:** Unit Testing, Integration Testing
-- **API Development:** RESTful Services, API Integration
+### Development Tools & Version Control
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+</p>
+
+### Methodologies & Practices
+- 📊 **Agile:** Scrum, Kanban
+- 🏗️ **Architecture:** Microservices, Object-Oriented Programming
+- 🧪 **Testing:** Unit Testing, Integration Testing
+- 🔄 **API Development:** RESTful Services, API Integration
 
 ## 🚀 Featured Projects
 
