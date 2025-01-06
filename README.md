@@ -11,10 +11,12 @@ Thank you for taking the time to view my GitHub profile. 😄
 ### Skills
 
 #### Programming Languages
-![image](https://github.com/user-attachments/assets/5a84dd97-96cc-4b76-b4d3-c54a9793f84f)
+- ![image](https://github.com/user-attachments/assets/5a84dd97-96cc-4b76-b4d3-c54a9793f84f)
 
-- Python
-- JavaScript
+- ![image](https://github.com/user-attachments/assets/ebb1d2ed-7f1d-4e22-9c3f-6bf1237a9354)
+
+- ![image](https://github.com/user-attachments/assets/435ad6ee-ecf9-4f93-9f92-2481516e65f3)
+
 
 #### Frameworks and Web Development
 - Spring Boot
