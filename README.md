@@ -12,11 +12,16 @@ Thank you for taking the time to view my GitHub profile. 😄
 
 #### Programming Languages
 - ![image](https://github.com/user-attachments/assets/c89358e6-fa7b-466d-8a33-6a2ed9e8be94)
-  - ![image](https://github.com/user-attachments/assets/ebb1d2ed-7f1d-4e22-9c3f-6bf1237a9354)
+  
+-  ![image](https://github.com/user-attachments/assets/4b7891bf-350f-4421-8e8d-89d69d77c86f)
+  
+-  ![image](https://github.com/user-attachments/assets/e0c889bf-2ef9-4ea0-a085-f847c4f5eb9e)
+
+ 
 
 
 
-- ![image](https://github.com/user-attachments/assets/435ad6ee-ecf9-4f93-9f92-2481516e65f3)
+- 
 
 
 #### Frameworks and Web Development
