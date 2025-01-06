@@ -11,14 +11,14 @@ Thank you for taking the time to view my GitHub profile. 😄
 ### Skills
 
 #### Programming Languages
-- Java
+- [Java]
 - Python
 - JavaScript
 
 #### Frameworks and Web Development
 - Spring Boot
 - HTML
-- CSS
+- [CSS]
 - React.js
 - Node.js
 - Thymeleaf
