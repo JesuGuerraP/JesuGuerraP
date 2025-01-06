@@ -11,7 +11,8 @@ Thank you for taking the time to view my GitHub profile. 😄
 ### Skills
 
 #### Programming Languages
-- [Java]
+![image](https://github.com/user-attachments/assets/5a84dd97-96cc-4b76-b4d3-c54a9793f84f)
+
 - Python
 - JavaScript
 
