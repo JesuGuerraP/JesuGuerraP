@@ -1,78 +1,81 @@
-# Hi, I'm Jesús David Guerra Pineda! 👋
-
-Thank you for taking the time to view my GitHub profile. 😄
-
-## About Me
-
-### GitHub
-
-🌱 I am a highly motivated software engineer, competent in creating innovative solutions that meet customer needs. I stand out for my ability to collaborate in multidisciplinary teams, quickly adapt to new technologies, and stay up to date with industry trends. I look for opportunities to apply my knowledge and contribute to dynamic projects that generate a positive impact on society.
-
-### Skills
-
-#### Programming Languages
-- ![image](https://github.com/user-attachments/assets/c89358e6-fa7b-466d-8a33-6a2ed9e8be94)
+<div align="center">
   
--  ![image](https://github.com/user-attachments/assets/4b7891bf-350f-4421-8e8d-89d69d77c86f)
-  
--  ![image](https://github.com/user-attachments/assets/e0c889bf-2ef9-4ea0-a085-f847c4f5eb9e)
+# Jesús David Guerra Pineda 👋
 
- 
+[![Email](https://img.shields.io/badge/Email-jesusguerrapineda000%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:jesusguerrapineda000@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
 
+</div>
 
+## 👨‍💻 About Me
 
-- 
+I am a passionate Software Engineer with expertise in creating innovative solutions that drive business value. My strength lies in collaborating with cross-functional teams, rapidly adapting to new technologies, and staying current with industry trends. I am dedicated to developing impactful solutions that positively contribute to society.
 
+## 🛠️ Technical Skills
 
-#### Frameworks and Web Development
-- Spring Boot
-- HTML
-- [CSS]
-- React.js
-- Node.js
-- Thymeleaf
-- Bootstrap
+### Programming Languages
+- **Advanced:** Java, Python, JavaScript
+- **Frameworks:** Spring Boot, React.js, Node.js
+- **Web Technologies:** HTML5, CSS3, Bootstrap, Thymeleaf
 
-#### Databases
-- SQL (MySQL, PostgreSQL)
-- NoSQL (MongoDB)
+### Database Systems
+- **SQL:** MySQL, PostgreSQL
+- **NoSQL:** MongoDB
 
-#### Methodologies
-- Agile (Scrum, Kanban)
+### Development Practices & Tools
+- **Version Control:** Git, GitHub, GitLab
+- **Methodologies:** Agile (Scrum, Kanban)
+- **Architecture:** Microservices, Object-Oriented Programming
+- **Testing:** Unit Testing, Integration Testing
+- **API Development:** RESTful Services, API Integration
 
-#### Design and Development
-- Object-Oriented Programming
-- Design Patterns
-- Scalable Software Development
-
-#### Testing and Quality Control
-- Development and execution of software tests
-
-#### Version Control
-- Git
-- GitHub
-- GitLab
-
-#### API Consumption
-- Integration of external services in applications
-
-## Projects
+## 🚀 Featured Projects
 
 ### E-commerce Platform
-- Developed a full-stack e-commerce platform using Spring Boot, React.js, and MongoDB.
-- Implemented features such as product management, shopping cart, checkout, and user authentication.
-- Utilized microservices architecture to ensure scalability and maintainability.
+> A comprehensive online shopping solution built with modern technologies
 
-### Chatbot Application
-- Created a conversational AI chatbot using Python and natural language processing techniques.
-- Integrated the chatbot with various communication channels, including web, mobile, and messaging platforms.
-- Designed the chatbot's conversational flow and knowledge base to provide personalized and contextual responses.
+- Architected and implemented a scalable e-commerce platform using Spring Boot and React.js
+- Designed a microservices architecture for optimal performance and maintainability
+- Integrated secure payment processing and user authentication systems
+- **Tech Stack:** Spring Boot, React.js, MongoDB, Docker
 
-### Logistics Management System
-- Developed a comprehensive logistics management system using Java and PostgreSQL.
-- Implemented features for inventory tracking, order management, transportation scheduling, and reporting.
-- Utilized agile methodologies and continuous integration/deployment practices to ensure efficient development and deployment.
+### AI-Powered Chatbot
+> An intelligent conversational agent with natural language processing capabilities
 
-## Connect with Me
+- Developed an advanced chatbot using Python and NLP technologies
+- Implemented multi-channel support across web, mobile, and messaging platforms
+- Created an extensible architecture for easy integration of new features
+- **Tech Stack:** Python, NLP Libraries, REST APIs
 
-- Email: jesusguerrapineda000@gmail.com
+### Enterprise Logistics Management System
+> A robust solution for managing complex logistics operations
+
+- Built a comprehensive system for inventory and transportation management
+- Implemented real-time tracking and reporting capabilities
+- Utilized CI/CD practices for reliable deployment
+- **Tech Stack:** Java, PostgreSQL, Spring Framework
+
+## 📈 GitHub Statistics
+
+<div align="center">
+  
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula)](https://github.com/yourusername)
+
+</div>
+
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on innovative projects and connecting with fellow developers. Feel free to reach out!
+
+- 📧 Email: jesusguerrapineda000@gmail.com
+- 💼 LinkedIn: [Your LinkedIn Profile]
+- 🌐 Portfolio: [Your Portfolio Website]
+
+---
+
+<div align="center">
+  
+*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+
+</div>
