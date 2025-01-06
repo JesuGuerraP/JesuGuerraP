@@ -54,21 +54,26 @@ I am a passionate Software Engineer with expertise in creating innovative soluti
 
 ## 🚀 Featured Projects
 
-### E-commerce Platform
+###  E-commerce Platform
 > A comprehensive online shopping solution built with modern technologies
 
-- Architected and implemented a scalable e-commerce platform using Spring Boot and React.js
-- Designed a microservices architecture for optimal performance and maintainability
-- Integrated secure payment processing and user authentication systems
-- **Tech Stack:** Spring Boot, React.js, MongoDB, Docker
+- Architected and implemented a scalable e-commerce platform using Spring Boot, Spring MVC, MySQL, and Thymeleaf
+- Implemented CRUD (Create, Read, Update, Delete) operations for product management
+- Developed a robust search functionality to allow users to search for products by name, category, or description
+- Designed an intuitive user interface for customers to browse the product catalog, add items to the cart, and place orders
+- **Tech Stack:** Spring Boot, Spring MVC, Spring Data JPA, MySQL, Thymeleaf, HTML, CSS, JavaScript
+- Leveraged Docker and Kubernetes for containerization and scalable deployment
 
-### AI-Powered Chatbot
-> An intelligent conversational agent with natural language processing capabilities
+### Expense Tracker Application
+> A comprehensive personal finance management tool built with modern web technologies
 
-- Developed an advanced chatbot using Python and NLP technologies
-- Implemented multi-channel support across web, mobile, and messaging platforms
-- Created an extensible architecture for easy integration of new features
-- **Tech Stack:** Python, NLP Libraries, REST APIs
+- Developed a full-stack expense tracking application using Spring Boot, Thymeleaf, and Bootstrap
+- Implemented CRUD (Create, Read, Update, Delete) operations for managing user expenses
+- Designed an intuitive and visually appealing user interface with responsive layout
+- Incorporated features such as expense categorization, date-based filtering, and expense summary
+- Utilized Spring Data JPA for seamless integration with a MySQL database
+- Leveraged CSS frameworks and animations to enhance the user experience
+- **Tech Stack:** Spring Boot, Thymeleaf, Bootstrap, MySQL, HTML, CSS, JavaScript
 
 ### Enterprise Logistics Management System
 > A robust solution for managing complex logistics operations
